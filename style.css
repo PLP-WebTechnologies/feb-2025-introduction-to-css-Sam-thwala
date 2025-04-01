@@ -1,0 +1,43 @@
+#google {
+    color: greenyellow;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+    font-size: 0.8em;
+    color: #666;
+    padding: 10px 0;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: violet;
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bolder;
+}
+body{
+    background-image: url('https://images.pexels.com/photos/19824679/pexels-photo-19824679/free-photo-of-close-up-of-branches-with-delicate-pink-flowers.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: black;
+}
+
+div{
+    padding: 50px;
+    border: 3px solid violet;
+}
+
+img{
+    margin: 50px;
+    border: 3px solid violet;
+}
